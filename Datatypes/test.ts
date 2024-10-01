@@ -1,0 +1,1 @@
+let re=/\w+/;   // RegExp type 
